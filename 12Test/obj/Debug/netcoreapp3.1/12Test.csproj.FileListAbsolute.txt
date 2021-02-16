@@ -1,0 +1,13 @@
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\bin\Debug\netcoreapp3.1\12Test.exe
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\bin\Debug\netcoreapp3.1\12Test.deps.json
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\bin\Debug\netcoreapp3.1\12Test.runtimeconfig.json
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\bin\Debug\netcoreapp3.1\12Test.runtimeconfig.dev.json
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\bin\Debug\netcoreapp3.1\12Test.dll
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\bin\Debug\netcoreapp3.1\12Test.pdb
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.AssemblyInfoInputs.cache
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.AssemblyInfo.cs
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.csproj.CoreCompileInputs.cache
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.dll
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.pdb
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.genruntimeconfig.cache
+D:\KursoveLondon\solutions\02Chapter\Chapter2\12Test\obj\Debug\netcoreapp3.1\12Test.csprojAssemblyReference.cache
